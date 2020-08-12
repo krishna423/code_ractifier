@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.krishna423.coderactifier.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.krishna423.coderactifier.MyBundle
 
 class MyApplicationService {
 
